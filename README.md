@@ -24,6 +24,23 @@ teach_yourself(coding)
 
 请先行阅读 [T-appendix.jupyter-installation-and-setup](T-appendix.jupyter-installation-and-setup.ipynb) 以便在本地安装 [Jupyterlab](https://github.com/jupyterlab/jupyterlab) 而后就能用更好的体验阅读本书。
 
+    2022年3-5月，第一次打开coursera学习python；第一次尝试，安装就报错，报错也毫无办法；
+    ·但最有用的是mindset，这本书让我知道了“Forward References“的存在，知道了其实很多时候”不懂也硬着头皮学下去“——这一定程度上神奇契合了接下来2年的读研生涯；
+    
+    2023年5月30日，雅思考完了，语言分过了，终于确定要启程读MBIS的研究生，Python不得不继续拾起学了；
+    2023年9月@NZ，前面卡住的地方终于不是问题了（jupyterlab安装成功了）至少懂了什么叫The command line interface(命令行界面)，和会用 brew Command Line Installation (命令行安装）
+    2023年12月，还是不用jupyterlab和git pull这些东西意味着什么（有点像当初对着终端不敢打字）
+    2024年整年，忙着修完学业，programming没有特别具体的学（这年唯一的新语言学了SQL）
+    
+    2025年2月，由于现在手边有了AI工具的帮忙，各种线头的教材拼凑起来学起，不仅学了还操作了：
+    1、理解并Fork原代码到自己的仓库，并新建分支再修改；（why,how-顺便理清理解逻辑）
+    2、理解如何在jupyterlab上“玩”（修改）但怎么就能确保pull 到的新分支而不是我的master?（学习如何切换分支的code）
+    3、完成真实修改内容后，实际操作到李笑来的仓库中（虽然看起来起码4-6年他没更新教程了，但至少证明了自己“如何使用 Pull Request 证明你读过这本书”
+    4、最后，问了如何通过 git commit 命令向自己 Fork 过来的仓库提交变化 —— 这就是自己的阅读工作证明。
+
+    在哪里可以看到成功？
+
+
 有兴趣帮忙的朋友，请先行阅读 [如何使用 Pull Request 为这本书校对](02.proof-of-work.ipynb)。
 
 2019 年 3 月 23 日，新增 Markdown 版本：
