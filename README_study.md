@@ -61,6 +61,14 @@ git remote set-url origin https://ghp_abc123xyz456789@github.com/leaball/the-cra
 #### 💬 小记一句：
 > “我虽然还不能独立写代码解决问题，但我敢面对恐惧，敢学习新的工具 —— 这就是我的 Proof of Work。”
 
+### ✅ 2025-07-08 补充记录
+
+我试着不用 VS Code，而是在 Jupyter 中直接创建了 Markdown 文件，并成功 push 到 study 分支！
+
+这让我感觉：技术也没那么遥远，它只是一种表达的方式。
+
+关键是：**我可以选择我喜欢、我能控制的路径。**
+
 ---
 
 ## 🧾 我的 commit 日志模版（备查）
